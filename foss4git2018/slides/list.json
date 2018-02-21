@@ -1,0 +1,160 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "css/img/bg.png"
+        }
+    },
+    [
+        {
+            "filename": "who-we-are.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "what-is-geoavalanche.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "geonode.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "crowdsourcing-information-system.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "winner-of-mygeoss.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "winner-of-mygeoss-1.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "avalanche-modelling.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "caaml.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "feature-type.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "eaws-profile.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "natural-risk-zone.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "natural-risk-zone-1.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "eaws-danger-scale.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "hale-transformation.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "challenges.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "ws-architecture.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "wps-trigger.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "geodata-used.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "snow-products.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "orchestrated-wps.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        },
+        {
+            "filename": "ate-reclassification.md",
+            "attr": {
+                "data-background": "css/img/bg.png"
+            }
+        }
+    ],
+    {
+        "filename": "credits.md",
+        "attr": {
+            "data-background": "css/img/bg.png"
+        }
+    },
+    {
+        "filename": "links.md",
+        "attr": {
+            "data-background": "css/img/bg.png"
+        }
+    },
+    {
+        "filename": "thanks.md",
+        "attr": {
+            "data-background": "css/img/bg.png"
+        }
+    }
+]
